@@ -1,2 +1,2 @@
 # analise-de-KPIs
-Análise de KPIs de uma empresa baseadao na mídia de origem de seus leads
+Análise de KPIs de uma empresa baseado na mídia de origem de seus leads
